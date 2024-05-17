@@ -3,6 +3,9 @@
 - ℹ️ Resty S. Galido
 - 🎓 Bachelor of Science in Computer Science
 
+## Project Develop
+- [prAIcis](https://praicis.com/)
+
 
 
 # Programming Langauges
@@ -31,7 +34,7 @@
 ![Xero](https://img.shields.io/badge/-Xero-00AAE0?style=flat-square&logo=xero&logoColor=white)
 
 
-- 👨‍💻 I’m currently working on AI generation tools to generate text and images that will automatically post to social media by schedule.
+- 👨‍💻 I’m currently working on AI generation tools to connect to other social media platforms.
 <!--
 **tyser1995/tyser1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
