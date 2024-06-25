@@ -34,7 +34,11 @@
 ![Xero](https://img.shields.io/badge/-Xero-00AAE0?style=flat-square&logo=xero&logoColor=white)
 
 
-- 👨‍💻 I’m currently working on AI generation tools to connect to other social media platforms.
+- 🌱 I’m currently learning
+![Astro](https://img.shields.io/badge/-Astro-805AD5?style=flat-square&logo=astro&logoColor=white)
+
+- 👨‍💻 I’m currently working Astro Website with User Sign Up and Authentication Implementation
+- 
 <!--
 **tyser1995/tyser1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
