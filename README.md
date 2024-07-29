@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm Resty. Happy to drink 🍻 with you.
+Check out my [portfolio](https://portfolio-tyser1995s-projects.vercel.app/)
+website
 
 - ℹ️ Resty S. Galido
 - 🎓 Bachelor of Science in Computer Science
