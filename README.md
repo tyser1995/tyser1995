@@ -39,7 +39,7 @@ website
 - 🌱 I’m currently learning
 ![Astro](https://img.shields.io/badge/-Astro-805AD5?style=flat-square&logo=astro&logoColor=white)
 
-- 👨‍💻 I’m currently working Astro Website with User Sign Up and Authentication Implementation
+- 👨‍💻 I’m working on a web application to help a friend.
 <!--
 **tyser1995/tyser1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
