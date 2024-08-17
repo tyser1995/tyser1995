@@ -36,8 +36,10 @@ website
 ![Xero](https://img.shields.io/badge/-Xero-00AAE0?style=flat-square&logo=xero&logoColor=white)
 
 
-- 🌱 I’m currently learning
-![Astro](https://img.shields.io/badge/-Astro-805AD5?style=flat-square&logo=astro&logoColor=white)
+- 🌱 I’m currently learning 
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=Capacitor&logoColor=white)
 
 - 👨‍💻 I’m working on a web application to help a friend.
 <!--
