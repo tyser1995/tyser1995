@@ -8,11 +8,6 @@ website
 # 💫 About Me:
 Hi! I'm the kind of developer who is willing to assist others in their efforts to find solutions to their problems. Although I'm not very good, I did my utmost.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tyser1995&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tyser1995&theme=vue-dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tyser1995&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## Project Develop
 - [prAIcis](https://praicis.com/)
 - [PWA Emergency Respond](https://www.gbicares.com/)
@@ -50,6 +45,11 @@ Hi! I'm the kind of developer who is willing to assist others in their efforts t
 ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=Capacitor&logoColor=white)
 
 - 👨‍💻 I’m working on a web application to help a friend.
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tyser1995&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=tyser1995&theme=vue-dark&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tyser1995&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!--
 **tyser1995/tyser1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
