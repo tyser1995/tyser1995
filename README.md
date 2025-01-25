@@ -6,12 +6,12 @@ website
 - 🎓 Bachelor of Science in Computer Science
 
 # 💫 About Me:
-Hi! I'm the kind of developer who is willing to assist others in their efforts to find solutions to their problems. Although I'm not very good, I did my utmost.
+Hi! I'm a developer willing to help others find solutions to their problems. Although I'm not very good, I did my utmost.
 
 ## Project Develop
 - [prAIcis](https://praicis.com/)
 
-### Capstone Study of the Students
+### Capstone Study
 - [PWA Emergency Respond](https://www.gbicares.com/)
 - [GoDucate Iloilo](https://gctiloilo-5ee98b1786de.herokuapp.com/)
 
