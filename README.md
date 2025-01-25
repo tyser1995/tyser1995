@@ -10,7 +10,10 @@ Hi! I'm the kind of developer who is willing to assist others in their efforts t
 
 ## Project Develop
 - [prAIcis](https://praicis.com/)
+
+### Capstone Study of the Students
 - [PWA Emergency Respond](https://www.gbicares.com/)
+- [GCT Iloilo]([https://www.gbicares.com/](https://gctiloilo-5ee98b1786de.herokuapp.com/))
 
 # 💻 Tech Stack:
 ## Programming Langauges
