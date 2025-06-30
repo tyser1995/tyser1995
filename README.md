@@ -42,10 +42,11 @@ Hi! I'm a developer willing to help others find solutions to their problems. Alt
 ![Xero](https://img.shields.io/badge/-Xero-00AAE0?style=flat-square&logo=xero&logoColor=white)
 
 
-- 🌱 I’m currently learning 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=Capacitor&logoColor=white)
+- 🌱 I’m currently learning  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
 
 - 👨‍💻 I’m working on a web application to help a friend.
 
