@@ -27,7 +27,7 @@ Hi! I'm a developer willing to help others find solutions to their problems. Alt
 ## Frameworks
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 
 ## 3rd Party Application
@@ -40,6 +40,8 @@ Hi! I'm a developer willing to help others find solutions to their problems. Alt
 ![Airwallex](https://img.shields.io/badge/-Airwallex-00c4b2?style=flat-square&logo=airwallex&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 ![Xero](https://img.shields.io/badge/-Xero-00AAE0?style=flat-square&logo=xero&logoColor=white)
+![BPI](https://img.shields.io/badge/-BPI-8B0000?style=flat-square&logoColor=white)
+![PayMaya](https://img.shields.io/badge/-PayMaya-00D17A?style=flat-square&logoColor=white)
 
 
 - 🌱 I’m currently learning  
