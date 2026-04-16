@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Resty Galido</h1>
 
 <h3 align="center">
-Full Stack Developer specializing in SaaS, APIs & Payment Integrations
+Full Stack Developer specializing in APIs & Payment Integrations
 </h3>
 
 <p align="center">
