@@ -41,13 +41,13 @@ Full Stack Developer specializing in APIs & Payment Integrations
 
 ## 🚀 Featured Projects
 
-### 🔹 prAIcis
+<!-- ### 🔹 prAIcis
 
 🌐 https://praicis.com/
 
 * ⚙️ Tech: Laravel, React, Payment APIs
 * 💡 Real-world platform focused on scalability
-* 🚀 Handles integrations and performance optimization
+* 🚀 Handles integrations and performance optimization-->
 
 <!-- OPTIONAL: Add screenshot -->
 
